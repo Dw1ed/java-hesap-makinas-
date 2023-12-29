@@ -1,1 +1,1 @@
-# java-hesap-makinas-
+# java-ortalama-hesaplama-
